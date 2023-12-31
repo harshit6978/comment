@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "text": "sdssd",
+      "id": 10
+    },
+    {
+      "text": "dsdsd",
+      "id": 11
+    },
+    {
+      "text": "dsds",
+      "id": 12
+    },
+    {
+      "text": "ffef",
+      "id": 13
+    },
+    {
+      "text": "sc",
+      "id": 14
+    },
+    {
+      "text": "dff",
+      "id": 15
+    },
+    {
+      "vcvc": "",
+      "id": 16
+    },
+    {
+      "text": "ffg",
+      "id": 17
+    },
+    {
+      "text": "fddf",
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
